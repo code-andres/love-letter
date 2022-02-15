@@ -1,1 +1,10 @@
+title: Carta de Amor
+email: andresmanuel.p@protonmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  He aquí,<br>
+  Mi primera carta de amor,<br>
+  Para mi primer amor.
+url: "https://code-andres.github.io"
+
+# Build settings
 theme: jekyll-theme-merlot
